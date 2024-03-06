@@ -5,7 +5,7 @@ public class dummy {
         if(System.out.append("school ")==null){
             System.out.println("school ");
         }else{
-            System.out.println("bus");
+            System.out.println("buses");
         }
     }
 }
